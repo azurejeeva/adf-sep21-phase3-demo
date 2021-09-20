@@ -43,7 +43,7 @@
 		"typeProperties": {
 			"schema": "dbo",
 			"table": {
-				"value": "@dataset().tableName",
+				"value": "Cars",
 				"type": "Expression"
 			}
 		}
