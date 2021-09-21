@@ -1,0 +1,6 @@
+{
+	"name": "integrationRuntime-sep21",
+	"properties": {
+		"type": "SelfHosted"
+	}
+}
