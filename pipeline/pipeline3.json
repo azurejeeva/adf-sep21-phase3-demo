@@ -200,7 +200,7 @@
 										},
 										"inputs": [
 											{
-												"referenceName": "dsFolderIn",
+												"referenceName": "dsirInput",
 												"type": "DatasetReference"
 											}
 										],
