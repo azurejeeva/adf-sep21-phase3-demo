@@ -1,0 +1,6 @@
+{
+	"name": "integrationRuntimespe22",
+	"properties": {
+		"type": "SelfHosted"
+	}
+}
