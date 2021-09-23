@@ -29,7 +29,8 @@
 					"sink": {
 						"type": "CosmosDbSqlApiSink",
 						"writeBehavior": "upsert",
-						"disableMetricsCollection": false
+						"disableMetricsCollection": true,
+						"maxConcurrentConnections": 1000
 					},
 					"enableStaging": false
 				},
